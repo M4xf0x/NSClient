@@ -1,4 +1,4 @@
 
-public class test implements {
+public class test {
 
 }
